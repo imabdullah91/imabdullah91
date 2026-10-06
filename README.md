@@ -175,7 +175,15 @@ current_focus:
 07. Developer Tools
 08. Automation Workflows
 ```
+## 🚀 What I'm Focused On
 
+```text
+Backend Development     ███████████████████░
+Frontend Development    █████████████████░░░
+Cybersecurity           ████████████████░░░░
+Cloud & DevOps          ███████████████░░░░░
+System Design           █████████████░░░░░░░
+```
 ---
 
 # 📊 GitHub Analytics
